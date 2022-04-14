@@ -1,0 +1,13 @@
+#messageBox {
+    margin: 20px;
+    position: relative;;
+    border: 2px solid black;
+    height: 400px;
+    width: 500px;
+    
+    overflow-y: scroll;
+}
+#sendInputs {
+    position: absolute;
+    bottom: 0px;
+}
